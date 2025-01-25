@@ -19,7 +19,7 @@ git clone git@github.com:PK-9595/Telegram-Bot-P.git
 ### 2. Install Dependencies
 Navigate to the project directory and install/update the required dependencies:
 ```bash
-npm install && npm update
+npm install
 ```
 
 ### 3. Install MySQL
