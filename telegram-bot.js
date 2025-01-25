@@ -1,4 +1,5 @@
 // Import modules, this uses Node.js syntax.
+import 'dotenv/config';
 import TelegramBot from 'node-telegram-bot-api';
 import {relPicPath, startPhrase} from './userInput.js';
 import {sqlQueryPromise} from './mysql.js';

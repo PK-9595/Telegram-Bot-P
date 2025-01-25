@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^16.4.7",
     "mysql": "^2.18.1",
     "node-emoji": "^2.1.3",
     "node-telegram-bot-api": "^0.64.0"
